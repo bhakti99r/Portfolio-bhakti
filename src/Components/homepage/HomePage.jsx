@@ -85,6 +85,7 @@ const HomePage = () => {
               <p className="experienced-box-right-title">
                 Front End Developer <span> @NeoSoft technologies</span>
               </p>
+              <span>hello</span>
               <p>Aug 2021 - Present</p>
               <ul className="experienced-box-right-list">
                 <li>
